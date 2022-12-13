@@ -1,24 +1,4 @@
-# README
+# cc-music-streamer
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A music streaming backend for cc-tweaked. Meant to be paired with https://github.com/0lafe/cc-soundplayer/
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
